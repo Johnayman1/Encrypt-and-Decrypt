@@ -26,7 +26,7 @@ Youssef Ahmed Beshir:
 
 #include <bits/stdc++.h>
 using namespace std;
-cout << "My id 20230109"<<endl;
+
 
 string strip(const string& sentence){
     // To remove spaces from text
